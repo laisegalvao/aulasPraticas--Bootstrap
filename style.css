@@ -2,8 +2,13 @@ header {
     background-image: url("Design\ sem\ nome.png");
     background-repeat: no-repeat;
     background-size: 100%;
-    background-position: center;
+    background-position:  center;
     margin: 0;
     height: 850px;
     opacity: 1.0;
 }
+
+.tamanho {
+    font-size: 18pt;
+}
+
